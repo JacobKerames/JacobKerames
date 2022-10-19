@@ -1,4 +1,4 @@
-# :fishing_pole_and_fish: Jacob Kerames
+# :computer: Jacob Kerames
 
 **`Computer Science Student (Aspiring Software Engineer/Apple Developer)`**
 
