@@ -11,13 +11,24 @@ I find enjoyment from solving problems and creating ideas through code. At CSU G
 ---
 
 ### Languages
-
-<img align="left" alt="Java" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="left" alt="Python" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" alt="Swift" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-<img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" alt="HTML" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" alt="CSS" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<picture>
+  <img align="left" alt="Java" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</picture>
+<picture>
+  <img align="left" alt="Python" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</picture>
+<picture>
+  <img align="left" alt="Swift" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+</picture>
+<picture>
+  <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</picture>
+<picture>
+  <img align="left" alt="HTML" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+</picture>
+<picture>
+  <img align="left" alt="CSS" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</picture
 <br />
 
 #
