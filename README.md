@@ -1,6 +1,6 @@
 :computer: **`Computer Science Student (Aspiring Software Engineer/Apple Developer)`**
 
-I find enjoyment from solving problems and creating ideas through code. At CSU Global, I am completing my senior year to earn a bachelor's degree in computer science. I have created multiple projects in Java and Python and am familiar with other languages including Swift, JavaScript, HTML, and CSS. One project I am currently developing is an independent Apple Watch application, which implements machine learning and multipeer connectivity. Some of my relevant technical skills include knowledge of computer architecture, data structures, databases, shell, and web services.
+At CSU Global, I am completing my senior year to earn a bachelor's degree in computer science. I have created multiple projects in Java and Python and am familiar with other languages including Swift, JavaScript, HTML, and CSS. One project I am currently developing is an independent Apple Watch application, which implements machine learning and multipeer connectivity.
 
   <p align="left">
     <a href="https://www.linkedin.com/in/jacob-kerames/">
