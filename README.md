@@ -1,6 +1,8 @@
 :computer: **`Software Engineer`**
 
-At CSU Global, I am completing my senior year to earn a bachelor's degree in computer science. I have created multiple projects in Java, C++, and Python and am familiar with other languages including Swift, JavaScript, HTML, and CSS. One project I am currently developing is an independent Apple Watch application, which implements machine learning and multipeer connectivity.
+As a fourth-year computer science student at Colorado State University Global, I have a strong foundation in a variety of programming languages, including Java, C++, Python, JavaScript, HTML, and Swift. I have a deep understanding of agile and scrum methodologies, and I am passionate about continuously learning and staying up-to-date on the latest technologies.
+
+Overall, I am a dedicated and driven software engineer with a passion for problem-solving and a commitment to excellence. I am excited to bring my skills and experience to a dynamic team and continue growing and learning as a professional.
 
   <p align="left">
     <a href="https://www.linkedin.com/in/jacob-kerames/">
