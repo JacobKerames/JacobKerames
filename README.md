@@ -27,9 +27,6 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
     <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </picture>
   <picture>
-    <img align="left" alt="Swift" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-  </picture>
-  <picture>
     <img align="left" alt="HTML" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   </picture>
   <picture>
