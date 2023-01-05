@@ -6,7 +6,7 @@ I have gained practical experience through my contributions to open source softw
 
 In addition to programming languages, I have relevant experience with:
 
-  * Machine learning libraries and frameworks: NumPy, Pandas, SciPy, TensorFlow, PyTorch, scikit-learn, and Keras
+  * Machine learning tools and libraries: NumPy, Pandas, SciPy, TensorFlow, PyTorch, scikit-learn, and Keras
   * Cloud-based machine learning platforms: Google Cloud AI Platform and Amazon Web Services
 
 Overall, I am a dedicated and driven software engineer with a passion for problem-solving and a commitment to excellence. I am eager to bring my skills and experience to a dynamic team and continue growing and learning as a professional. If there is something you would like to discuss, or if you have information about a remote software engineer position, please reach out via LinkedIn, or at mail@jacobkerames.com.
