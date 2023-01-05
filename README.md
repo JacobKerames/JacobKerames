@@ -23,7 +23,7 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
     <img align="left" alt="LeetCode" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   </a>
 </p>
-<br>
+</br>
 
 ---
 
@@ -41,7 +41,7 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 <picture>
   <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </picture>  
-<br>
+</br>
 
 ---
 
