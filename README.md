@@ -6,9 +6,8 @@ I have gained practical experience through my contributions to open source softw
 
 In addition to programming languages, I have relevant experience with:
 
-  * Machine learning libraries and frameworks: TensorFlow, Keras, PyTorch, scikit-learn, and Pandas
-  * Cloud-based machine learning platforms: Google Cloud AI Platform and Amazon SageMaker
-  * Databases: NoSQL and Access
+  * Machine learning libraries and frameworks: NumPy, Pandas, SciPy, TensorFlow, PyTorch, scikit-learn, and Keras
+  * Cloud-based machine learning platforms: Google Cloud AI Platform and Amazon Web Services
 
 Overall, I am a dedicated and driven software engineer with a passion for problem-solving and a commitment to excellence. I am eager to bring my skills and experience to a dynamic team and continue growing and learning as a professional. If there is something you would like to discuss, or if you have information about a remote software engineer position, please reach out via LinkedIn, or at mail@jacobkerames.com.
 
@@ -16,11 +15,15 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 
 ### Profiles
 
-<p align="left" alt="LinkedIn" width="auto" style="padding-right:10px;">
+<p align="left">
   <a href="https://www.linkedin.com/in/jacob-kerames/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img align="left" alt="LinkedIn" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/JacobKerames/">
+    <img align="left" alt="LeetCode" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   </a>
 </p>
+<br>
 
 ---
 
@@ -37,11 +40,31 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 </picture>
 <picture>
   <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</picture>  
+<br>
+
+---
+
+### Tools and Libraries
+
+<picture>
+  <img align="left" alt="NumPy" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 </picture>
 <picture>
-  <img align="left" alt="HTML" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="left" alt="Pandas" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </picture>
 <picture>
-  <img align="left" alt="CSS" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="left" alt="SciPy" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
 </picture>
-</br>
+<picture>
+  <img align="left" alt="TensorFlow" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+</picture>
+<picture>
+  <img align="left" alt="PyTorch" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+</picture>
+<picture>
+  <img align="left" alt="scikit-learn" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</picture>
+<picture>
+  <img align="left" alt="Keras" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+</picture>
