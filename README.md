@@ -1,4 +1,4 @@
-:computer: **`Software Engineer`**
+:computer: **`Machine Learning Engineer`**
 
 As a fourth-year computer science student at Colorado State University Global, I have a strong foundation in a variety of programming languages, including Java, Python, and C++, and have completed relevant courses such as Artificial Intelligence, Data Structures and Algorithms, and Software Engineering. Despite complex and accelerated coursework, and other challenges, I have maintained a 4.0 GPA and frequently conducted my own research and projects.
 
