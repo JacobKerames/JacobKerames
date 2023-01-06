@@ -13,7 +13,7 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 
 ***
 
-### Profiles
+### Profiles &nbsp; :bust_in_silhouette:
 
 <p>
   <a href="https://www.linkedin.com/in/jacob-kerames/">
@@ -25,7 +25,7 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 
 #
 
-### Languages
+### Languages &nbsp; :keyboard:
 
 <p>
   <picture>
@@ -45,7 +45,7 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 
 #
 
-### Tools and Libraries
+### Tools and Libraries &nbsp; :toolbox:
 
 <p>
   <picture>
@@ -74,12 +74,11 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 
 #
 
-### :chart_with_upwards_trend: GitHub Stats
+### GitHub Stats &nbsp; :chart_with_upwards_trend:
 
 <picture>
-  <img align="left" alt="Top Languages on Github" width="auto" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames"/>
+  <img align="left" alt="Top Languages on Github" width="auto" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames&hide=html&layout=compact&theme=github_dark"/>
 </picture>
-<br />
 <picture>
-  <img align="left" alt="Trophies" width="auto" style="padding-right:10px;" src="https://github-profile-trophy.vercel.app/?username=JacobKerames&theme=onedark"/>
+  <img align="left" alt="Trophies" width="auto" style="padding-right:10px;" src="https://github-profile-trophy.vercel.app/?username=JacobKerames&no-bg=true&column=3&margin-w=15&margin-h=15&theme=algolia"/>
 </picture>
