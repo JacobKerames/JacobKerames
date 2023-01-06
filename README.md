@@ -70,3 +70,16 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
     <img align="left" alt="Keras" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   </picture>
 </p>
+<br />
+
+#
+
+### :chart_with_upwards_trend: GitHub Stats
+
+<picture>
+  <img align="left" alt="Top Languages on Github" width="auto" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames"/>
+</picture>
+<br />
+<picture>
+  <img align="left" alt="Trophies" width="auto" style="padding-right:10px;" src="https://github-profile-trophy.vercel.app/?username=JacobKerames&theme=onedark"/>
+</picture>
