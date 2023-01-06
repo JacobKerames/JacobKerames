@@ -21,7 +21,7 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
   <a href="https://leetcode.com/JacobKerames/">
     <img align="left" alt="leetcode profile" title="View My LeetCode Profile" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 </p>
-<br />
+<br>
 
 #
 
@@ -41,7 +41,7 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
     <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </picture>
 </p>
-<br />
+<br>
 
 #
 
@@ -70,15 +70,17 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
     <img align="left" alt="Keras" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   </picture>
 </p>
-<br />
+<br>
+<br>
 
 #
 
 ### GitHub Stats &nbsp; :chart_with_upwards_trend:
-
-<picture>
-  <img align="left" alt="Top Languages on Github" width="auto" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames&hide=html&layout=compact&theme=github_dark"/>
-</picture>
-<picture>
-  <img align="left" alt="Trophies" width="auto" style="padding-right:10px;" src="https://github-profile-trophy.vercel.app/?username=JacobKerames&no-bg=true&column=3&margin-w=15&margin-h=15&theme=algolia"/>
-</picture>
+<p>
+  <picture>
+    <img align="left" alt="Top Languages on Github" width="auto" style="padding:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames&hide=html&layout=compact&theme=github_dark"/>
+  </picture>
+  <picture>
+    <img align="left" alt="Trophies" width="auto" style="padding:10px;" src="https://github-profile-trophy.vercel.app/?username=JacobKerames&no-bg=true&column=3&margin-w=15&margin-h=15&theme=algolia"/>
+  </picture>
+</p>
