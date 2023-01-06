@@ -11,39 +11,39 @@ In addition to programming languages, I have relevant experience with:
 
 Overall, I am a dedicated and driven software engineer with a passion for problem-solving and a commitment to excellence. I am eager to bring my skills and experience to a dynamic team and continue growing and learning as a professional. If there is something you would like to discuss, or if you have information about a remote software engineer position, please reach out via LinkedIn, or at mail@jacobkerames.com.
 
----
+***
 
 ### Profiles
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/jacob-kerames/">
-    <img align="left" alt="LinkedIn" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img align="left" alt="linkedin profile" title="Connect on LinkedIn" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/JacobKerames/">
-    <img align="left" alt="LeetCode" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-  </a>
+    <img align="left" alt="leetcode profile" title="View My LeetCode Profile" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 </p>
-</br>
+<br />
 
----
+#
 
 ### Languages
 
-<picture>
-  <img align="left" alt="Python" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</picture>
-<picture>
-  <img align="left" alt="Java" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</picture>
-<picture>
-  <img align="left" alt="C++" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</picture>
-<picture>
-  <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</picture>  
-</br>
+<p>
+  <picture>
+    <img align="left" alt="Python" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </picture>
+  <picture>
+    <img align="left" alt="Java" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </picture>
+  <picture>
+    <img align="left" alt="C++" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </picture>
+  <picture>
+    <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </picture>
+</p>
+<br />
 
----
+#
 
 ### Tools and Libraries
 
