@@ -78,11 +78,15 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 #
 
 ### GitHub Stats &nbsp; :chart_with_upwards_trend:
-<p>
-  <picture>
-    <img align="left" alt="Top Languages on Github" width="auto" style="padding:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames&hide=html&layout=compact&theme=github_dark"/>
-  </picture>
-  <picture>
-    <img align="left" alt="Trophies" width="auto" style="padding:10px;" src="https://github-profile-trophy.vercel.app/?username=JacobKerames&no-bg=true&column=3&margin-w=15&margin-h=15&theme=algolia"/>
-  </picture>
-</p>
+<div>
+ <div>
+   <picture>
+     <img align="left" alt="Top Languages on Github" width="auto" style="padding:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames&hide=html&layout=compact&theme=github_dark"/>
+   </picture>
+ </div>
+ <div>
+   <picture>
+     <img align="left" alt="Trophies" width="auto" style="padding:10px;" src="https://github-readme-stats.vercel.app/api?username=JacobKerames&theme=github_dark&show_icons=true&hide_title=true"/>
+   </picture>
+ </div>
+</div>
