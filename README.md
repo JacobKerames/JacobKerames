@@ -81,7 +81,7 @@ Overall, I am a dedicated and driven software engineer with a passion for proble
 <div>
  <div>
    <picture>
-     <img align="left" alt="Top Languages on Github" width="auto" style="padding:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames&hide=html&layout=compact&theme=github_dark"/>
+     <img align="left" alt="Top Languages on Github" width="auto" style="padding:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobKerames&hide=html&layout=compact&theme=github_dark&card_width=auto"/>
    </picture>
  </div>
  <div>
