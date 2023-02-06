@@ -1,10 +1,10 @@
 :computer: **`Software Engineer`**
 
-As a fourth-year computer science student at Colorado State University Global, I have a strong foundation in a variety of programming languages, including Python, Java, and C++, and have completed relevant courses such as Artificial Intelligence, Data Structures and Algorithms, and Software Engineering. Despite complex and accelerated coursework, and other challenges, I have maintained a 4.0 GPA and frequently conducted my own research and projects.
+I am a software engineer and computer science student at Colorado State University Global with a passion for technology and a commitment to excellence. My technical skills include Java, Python, C++, and agile methodologies.
 
-I have gained practical experience through my contributions to open source software, as well as my personal projects. I am passionate about using technology to solve real-world problems and have developed interest specifically in machine learning and artificial intelligence. From my machine learning projects, I have gained experience and overcome challenges in selecting and preprocessing data, choosing the right algorithm or model for the task, and fine-tuning model hyperparameters.
+My goal is to find a challenging role in backend development where I can utilize my skills and continue to learn and improve. I am highly motivated and always strive to stay up-to-date with the latest technology trends. I am particularly interested in artificial intelligence and machine learning and am dedicated to expanding my knowledge in these areas.
 
-Overall, I am a dedicated and driven software engineer with a passion for problem-solving and a commitment to excellence. I am eager to bring my skills and experience to a dynamic team and continue growing and learning as a professional. If there is something you would like to discuss, or if you have information about a remote software engineer position, please reach out via LinkedIn, or at mail@jacobkerames.com.
+I believe in taking a proactive approach to problem-solving. I enjoy breaking down complex issues into manageable tasks and finding creative solutions. I am excited about the prospect of starting my career as a software engineer and continuously growing as a professional in this exciting and ever-evolving field.
 
 ***
 
