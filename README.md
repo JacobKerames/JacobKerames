@@ -42,36 +42,6 @@ I believe in taking a proactive approach to problem-solving. I enjoy breaking do
 
 #
 
-### Tools and Libraries &nbsp; :toolbox:
-
-<p>
-  <picture>
-    <img align="left" alt="NumPy" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  </picture>
-  <picture>
-    <img align="left" alt="Pandas" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  </picture>
-  <picture>
-    <img align="left" alt="SciPy" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
-  </picture>
-  <picture>
-    <img align="left" alt="TensorFlow" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  </picture>
-  <picture>
-    <img align="left" alt="PyTorch" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </picture>
-  <picture>
-    <img align="left" alt="scikit-learn" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  </picture>
-  <picture>
-    <img align="left" alt="Keras" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </picture>
-</p>
-<br>
-<br>
-
-#
-
 ### GitHub Stats &nbsp; :chart_with_upwards_trend:
 <div>
  <div>
