@@ -56,5 +56,3 @@ I believe in taking a proactive approach to problem-solving. I enjoy breaking do
    </picture>
  </div>
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=108101472)
