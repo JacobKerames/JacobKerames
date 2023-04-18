@@ -13,8 +13,6 @@ I believe in taking a proactive approach to problem-solving. I enjoy breaking do
 <p>
   <a href="https://www.linkedin.com/in/jacob-kerames/">
     <img align="left" alt="linkedin profile" title="Connect on LinkedIn" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/jacobkerames">
-    <img align="left" alt="fiverr profile" title="View My Fiverr Profile" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white"/></a>
   <a href="https://leetcode.com/JacobKerames/">
     <img align="left" alt="leetcode profile" title="View My LeetCode Profile" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 </p>
