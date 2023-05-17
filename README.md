@@ -1,6 +1,6 @@
 :computer: **`Software Engineer`**
 
-I am a software engineer and computer science student at Colorado State University Global with a passion for technology and a commitment to excellence. My technical skills include Java, Python, C++, and agile methodologies.
+I am a software engineer and computer science graduate with a passion for technology and a commitment to excellence. My technical skills include Java, Python, C++, and Agile methodologies.
 
 My goal is to find a challenging role in backend development where I can utilize my skills and continue to learn and improve. I am highly motivated and always strive to stay up-to-date with the latest technology trends. I am particularly interested in artificial intelligence and machine learning and am dedicated to expanding my knowledge in these areas.
 
@@ -20,7 +20,7 @@ I believe in taking a proactive approach to problem-solving. I enjoy breaking do
 
 #
 
-### Languages &nbsp; :keyboard:
+### Languages and Tools &nbsp; :keyboard:
 
 <p>
   <picture>
@@ -34,6 +34,12 @@ I believe in taking a proactive approach to problem-solving. I enjoy breaking do
   </picture>
   <picture>
     <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </picture>
+  <picture>
+    <img align="left" alt="MySQL" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </picture>
+  <picture>
+    <img align="left" alt="MySQL" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </picture>
 </p>
 <br>
