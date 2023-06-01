@@ -24,10 +24,10 @@ I welcome the chance to connect with fellow professionals, whether it's to discu
 
 <p>
   <picture>
-    <img align="left" alt="Python" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="left" alt="Java" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </picture>
   <picture>
-    <img align="left" alt="Java" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img align="left" alt="Python" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </picture>
   <picture>
     <img align="left" alt="C++" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
