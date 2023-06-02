@@ -50,7 +50,7 @@ I welcome the chance to connect with fellow professionals, whether it's to discu
 <div>
  <div>
    <picture>
-     <img align="left" alt="Top Languages on Github" width="300" style="padding:10px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JacobKerames&layout=compact&theme=github_dark&card_width=auto&langs_count=6"/>
+     <img align="left" alt="Top Languages on Github" width="300" style="padding:10px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JacobKerames&layout=compact&theme=github_dark&card_width=auto&langs_count=6&size_weight=0.5&count_weight=0.5"/>
    </picture>
  </div>
  &nbsp;
