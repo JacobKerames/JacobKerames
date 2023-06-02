@@ -15,6 +15,8 @@ I welcome the chance to connect with fellow professionals, whether it's to discu
 <p>
   <a href="https://www.linkedin.com/in/jacob-kerames/">
     <img align="left" alt="linkedin profile" title="Connect on LinkedIn" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jacobkerames.com/">
+    <img align="left" alt="portfolio" title="View My Portfolio" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=#7952B3"/></a>
 </p>
 <br>
 
