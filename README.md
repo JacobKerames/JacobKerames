@@ -58,7 +58,7 @@ I welcome the chance to connect with fellow professionals, whether it's to discu
  &nbsp;
  <div>
    <picture>
-     <img align="left" alt="Trophies" width="400" style="padding:10px;" src="https://github-readme-stats-chi-sandy-44.vercel.app/api?username=JacobKerames&theme=github_dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"/>
+     <img align="left" alt="Trophies" width="400" style="padding:10px;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api?username=JacobKerames&theme=github_dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"/>
    </picture>
  </div>
 </div>
