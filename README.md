@@ -14,9 +14,9 @@ Please feel free to explore my LinkedIn profile or my personal portfolio website
 
 <p>
   <a href="https://www.linkedin.com/in/jacob-kerames/">
-    <img align="left" alt="linkedin profile" title="Connect on LinkedIn" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img align="left" alt="linkedin profile" title="Connect on LinkedIn" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://jacobkerames.com/">
-    <img align="left" alt="portfolio" title="View My Portfolio" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=#7952B3"/></a>
+    <img align="left" alt="portfolio" title="View My Portfolio" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=#7952B3"/></a>
 </p>
 <br>
 
@@ -26,25 +26,40 @@ Please feel free to explore my LinkedIn profile or my personal portfolio website
 
 <p>
   <picture>
-    <img align="left" alt="Java" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img align="left" alt="Java" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </picture>
   <picture>
-    <img align="left" alt="Python" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="left" alt="Python" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </picture>
   <picture>
-    <img align="left" alt="C++" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img align="left" alt="Swift" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   </picture>
   <picture>
-    <img align="left" alt="JavaScript" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img align="left" alt="C++" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </picture>
   <picture>
-    <img align="left" alt="MySQL" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="left" alt="JavaScript" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </picture>
   <picture>
-    <img align="left" alt="MySQL" width="auto" style="padding-right:10px;" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img align="left" alt="HTML" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </picture>
+  <picture>
+    <img align="left" alt="CSS" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </picture>
+  <picture>
+    <img align="left" alt="Bootstrap" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </picture>
+  <picture>
+    <img align="left" alt="MySQL" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </picture>
+  <picture>
+    <img align="left" alt="MySQL" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </picture>
+  <picture>
+    <img align="left" alt="Git" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   </picture>
 </p>
-<br>
+<br><br>
 
 #
 
@@ -52,13 +67,13 @@ Please feel free to explore my LinkedIn profile or my personal portfolio website
 <div>
  <div>
    <picture>
-     <img align="left" alt="Top Languages on Github" style="padding:10px;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api/top-langs/?username=JacobKerames&layout=compact&theme=github_dark&card_width=350&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=JacobKerames.github.io"/>
+     <img align="left" alt="Top Languages on Github" style="padding:10;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api/top-langs/?username=JacobKerames&layout=compact&theme=github_dark&card_width=350&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=JacobKerames.github.io"/>
    </picture>
  </div>
  &nbsp;
  <div>
    <picture>
-     <img align="left" alt="Trophies" width="400" style="padding:10px;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api?username=JacobKerames&theme=github_dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"/>
+     <img align="left" alt="Trophies" width="400" style="padding:10;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api?username=JacobKerames&theme=github_dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"/>
    </picture>
  </div>
 </div>
