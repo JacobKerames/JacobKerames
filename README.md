@@ -73,7 +73,7 @@ Please feel free to explore my LinkedIn profile or my personal portfolio website
  &nbsp;
  <div>
    <picture>
-     <img align="left" alt="Trophies" width="400" style="padding:10;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api?username=JacobKerames&theme=github_dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"/>
+     <img align="left" alt="Trophies" width="400" style="padding:10;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api?username=JacobKerames&theme=github_dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&rank_icon=percentile"/>
    </picture>
  </div>
 </div>
