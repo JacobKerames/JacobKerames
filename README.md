@@ -1,12 +1,12 @@
 :computer: **`Software Engineer`**
 
-Starting my journey as a Software Engineer, I've recently completed a Bachelor of Science in Computer Science. My education has given me a solid understanding of key areas such as Java, Python, SQL, and Agile methodologies.
+As a recent summa cum laude graduate in Computer Science from Colorado State University Global, I've spent my academic career developing a deep knowledge base in various areas including Software Engineering, Data Structures, Algorithms, Database Management, and Artificial Intelligence. This foundation is complemented by my practical experience, with a particular focus on personal projects and open-source contributions.
 
-I've always found a certain satisfaction in problem-solving. The thrill of untangling complex issues and finding streamlined solutions is what drew me to this field. It's this love for challenge and learning that has helped me maintain a strong academic record.
+One project that stands out is Duel, an Apple Watch application which simulates an old-fashioned standoff between two users, employing activity classification and multipeer connectivity. Starting with a limited knowledge of Swift, iOS development, and machine learning, I quickly adapted to these technologies and progressed with the project, which has become a major achievement in my portfolio.
 
-Looking ahead, I'm excited to take the next steps in my career. I'm eager to find a role where I can contribute to a team and continue to learn and grow. I'm particularly interested in opportunities that will allow me to apply and refine my skills in a practical setting.
+What sets me apart is not just my academic proficiency, as reflected by a 4.0 GPA, but also my dedication to continuous learning, coupled with the ability to quickly adapt to new technologies. Passionate about software engineering, I seek opportunities to leverage my skills and work on challenging projects in collaborative, forward-thinking environments.
 
-I welcome the chance to connect with fellow professionals, whether it's to discuss potential opportunities or simply to chat about the latest in software development. I believe we all have something to learn from each other, and I look forward to those conversations.
+Please feel free to explore my LinkedIn profile or my personal portfolio website. Open for conversations on opportunities where I can contribute to the team with my passion for innovation and quality in software development.
 
 ***
 
