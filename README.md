@@ -1,27 +1,5 @@
 :computer: **`Software Engineer`**
 
-As a recent summa cum laude graduate in Computer Science from Colorado State University Global, I've spent my academic career developing a deep knowledge base in various areas including Software Engineering, Data Structures, Algorithms, Database Management, and Artificial Intelligence. This foundation is complemented by my practical experience, with a particular focus on personal projects and open-source contributions.
-
-One project that stands out is Duel, an Apple Watch application which simulates an old-fashioned standoff between two users, employing activity classification and multipeer connectivity. Starting with a limited knowledge of Swift, iOS development, and machine learning, I quickly adapted to these technologies and progressed with the project, which has become a major achievement in my portfolio.
-
-What sets me apart is not just my academic proficiency, as reflected by a 4.0 GPA, but also my dedication to continuous learning, coupled with the ability to quickly adapt to new technologies. Passionate about software engineering, I seek opportunities to leverage my skills and work on challenging projects in collaborative, forward-thinking environments.
-
-Please feel free to explore my LinkedIn profile or my personal portfolio website. Open for conversations on opportunities where I can contribute to the team with my passion for innovation and quality in software development.
-
-***
-
-### Profiles &nbsp; :bust_in_silhouette:
-
-<p>
-  <a href="https://www.linkedin.com/in/jacob-kerames/">
-    <img align="left" alt="linkedin profile" title="Connect on LinkedIn" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://jacobkerames.com/">
-    <img align="left" alt="portfolio" title="View My Portfolio" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=#7952B3"/></a>
-</p>
-<br>
-
-#
-
 ### Languages and Tools &nbsp; :keyboard:
 
 <p>
