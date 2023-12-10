@@ -37,6 +37,9 @@
     <img align="left" alt="C#" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   </picture>
   <picture>
+    <img align="left" alt="Postgres" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </picture>
+  <picture>
     <img align="left" alt="Git" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   </picture>
 </p>
