@@ -1,5 +1,6 @@
 ### Currently Building &nbsp; :keyboard:
 [![SkillsScope](https://github-readme-stats-git-master-jacobkerames.vercel.app/api/pin/?username=JacobKerames&repo=SkillsScope\&theme=github_dark\&show_owner=true)](https://github.com/JacobKerames/SkillsScope)
+&nbsp;
 [![PortfolioWebApp](https://github-readme-stats-git-master-jacobkerames.vercel.app/api/pin/?username=JacobKerames&repo=PortfolioWebApp\&theme=github_dark\&show_owner=true)](https://github.com/JacobKerames/PortfolioWebApp)
 
 ### Languages and Tools &nbsp; 🧰
@@ -63,7 +64,7 @@
 <div>
  <div>
    <picture>
-     <img align="left" alt="Top Languages on Github" style="padding:10;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api/top-langs/?username=JacobKerames&layout=compact&theme=github_dark&card_width=350&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=JacobKerames.github.io"/>
+     <img align="left" alt="Top Languages on Github" style="padding:10;" src="https://github-readme-stats-git-master-jacobkerames.vercel.app/api/top-langs/?username=JacobKerames&layout=compact&theme=github_dark&card_width=350&langs_count=10&exclude_repo=JacobKerames.github.io"/>
    </picture>
  </div>
  &nbsp;
