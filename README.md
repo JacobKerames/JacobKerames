@@ -3,7 +3,7 @@
 &nbsp;
 [![PortfolioWebApp](https://github-readme-stats-git-master-jacobkerames.vercel.app/api/pin/?username=JacobKerames&repo=PortfolioWebApp\&theme=github_dark\&show_owner=true)](https://github.com/JacobKerames/PortfolioWebApp)
 
-### Languages and Tools &nbsp; 🧰
+### Languages, Frameworks, and Tools &nbsp; 🧰
 <p>
   <picture>
     <img align="left" alt="Next.js" width="auto" style="padding-right:10;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
