@@ -1,7 +1,7 @@
 ### Currently Building &nbsp; :keyboard:
-[![SkillsScope](https://github-readme-stats-git-master-jacobkerames.vercel.app/api/pin/?username=JacobKerames&repo=SkillsScope\&theme=github_dark\&show_owner=true)](https://github.com/JacobKerames/SkillsScope)
+[![SkillsScope](https://github-readme-stats-git-master-jacobkerames.vercel.app/api/pin/?username=JacobKerames&repo=SkillsScope\&theme=github_dark)](https://github.com/JacobKerames/SkillsScope)
 &nbsp;
-[![PortfolioWebApp](https://github-readme-stats-git-master-jacobkerames.vercel.app/api/pin/?username=JacobKerames&repo=PortfolioWebApp\&theme=github_dark\&show_owner=true)](https://github.com/JacobKerames/PortfolioWebApp)
+[![PortfolioWebApp](https://github-readme-stats-git-master-jacobkerames.vercel.app/api/pin/?username=JacobKerames&repo=PortfolioWebApp\&theme=github_dark)](https://github.com/JacobKerames/PortfolioWebApp)
 
 ### Languages, Frameworks, and Tools &nbsp; 🧰
 <p>
